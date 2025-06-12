@@ -1,4 +1,4 @@
-# Task 2: Calculator
+## Task 2: Calculator
 
 ## Description:
 This is a simple command-line calculator in Python. It supports:
