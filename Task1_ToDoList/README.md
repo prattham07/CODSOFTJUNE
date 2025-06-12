@@ -1,4 +1,4 @@
-# Task 1: To-Do List Application
+## Task 1: To-Do List Application
 
 ## Description:
 This is a command-line based To-Do List manager built using Python. It allows users to:
